@@ -1,0 +1,1 @@
+let somefunc = () => console.log("hello") 
